@@ -5,7 +5,7 @@ It helps schools, universities, and educators manage **attendance tracking**, **
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Attendance Tracking** – Easily mark, view, and analyze student attendance.
 - **Student Work Management** – Organize assignments, submissions, and grading.
@@ -17,7 +17,7 @@ It helps schools, universities, and educators manage **attendance tracking**, **
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Frontend
 - React.js + Tailwind CSS
@@ -28,7 +28,5 @@ It helps schools, universities, and educators manage **attendance tracking**, **
 - scikit-learn (for AI predictions)
 - SQLite (Database)
 
----
 
-## 📂 Project Structure
 
